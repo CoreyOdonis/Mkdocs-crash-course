@@ -1,0 +1,5 @@
+site_name: 'Detting started with MKDocs'
+site_description: 'This is an article on how to use MKDocs as a beginner'
+site_author: 'Akorede da Silva'
+
+docs_dir: my-project
